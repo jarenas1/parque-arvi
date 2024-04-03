@@ -1,0 +1,20 @@
+/* Nombre: Juan José Arenas Gaviria
+Clan: Dell
+Fecha: 03/04/2024 */
+
+:root{
+    --verde_bosque: #1A5126;
+    --verde_claro:#8FBF5F;
+    --azul_claro: #5CB3FF;
+    --beige: #F3E9DC;
+    --marron_tierra:#B18F6A;
+    --blanco:#FFFFFF;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family:"Montserrat", sans-serif;
+}
