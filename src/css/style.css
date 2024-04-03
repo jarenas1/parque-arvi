@@ -76,3 +76,43 @@ body{
    left: 380px;
 
 }
+
+.cont2{
+    margin-top: 30px;
+    display: flex;
+}
+
+.cont21{
+    text-align: center;
+    margin: 15px 70px 0px 40px;
+    gap: 5px;
+}
+
+.cont21 h2 a{
+    color: var(--verde_bosque);
+    padding: 10x;
+}
+
+.img2{
+ border-radius: 10px;
+ padding-right: 30px;
+ 
+}
+
+.img21{
+    border-radius: 10px;
+ margin-top: 5px;
+ width:48%;
+ height: 300px;
+
+}
+
+.maparvi{
+    margin: 30px;
+}
+
+.img3{
+    padding-top: 40px;
+    border-radius: 10px;
+    width: 96%;
+}
