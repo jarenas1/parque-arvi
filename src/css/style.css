@@ -125,7 +125,9 @@ body{
 }
 
 .map{
-    margin: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
 }
 
 .img3{
@@ -135,7 +137,7 @@ body{
 }
 
 .txtinferior{
-    margin-top: 20px;
+    margin-top: 0px;
     color: var(--verde_bosque);
     display: flex;
     flex-direction: column;
@@ -158,6 +160,7 @@ body{
 .cajitas{
     margin-top: 200px;
     display: flex;
+    justify-content: center;
 }
 
 .fondo{
