@@ -57,7 +57,7 @@ body{
     height: 300px;
 }
 .img1{
-    background-image: url(/Recursos/img/imagen1.jpg);
+    background-image: url(../../Recursos/img/imagen1.jpg);
     background-repeat:no-repeat;
     background-size: 100%;
     color: white;
